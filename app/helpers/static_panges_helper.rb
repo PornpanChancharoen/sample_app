@@ -1,0 +1,2 @@
+module StaticPangesHelper
+end

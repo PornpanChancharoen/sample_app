@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'static_panges/home'
+
+  get 'static_panges/help'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
